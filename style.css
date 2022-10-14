@@ -40,7 +40,7 @@
     width: 450px;
     height: 70px;
     margin-left: 30px;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
     border-radius: 20px;
     text-align: center;
     border-radius: 10px;
@@ -51,7 +51,7 @@
     background-color: aqua;
     width: 450px;
     height: 70px;
-    margin-left: 510px;
+    margin-left: 515px;
     box-sizing: border-box;
     border-radius: 20px;
     text-align: center;
@@ -85,6 +85,7 @@
     height: 250px;
 margin-top: 30px;
 box-sizing: border-box;
+justify-content: center;
 }
 .child{
     border: 2px solid red;
@@ -98,6 +99,8 @@ box-sizing: border-box;
     padding-top: 15px;
     box-sizing: border-box;
     border-radius: 15px;
+    color: brown;
+    font-weight: bold;
 }
 .div0{
     color: white;
